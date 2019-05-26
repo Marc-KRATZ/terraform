@@ -1,5 +1,5 @@
 # Terraform
 
-Source 
-> https://www.terraform.io/
-> https://learn.hashicorp.com/terraform/
+Sources :  
+* https://www.terraform.io/
+* https://learn.hashicorp.com/terraform/
